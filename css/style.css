@@ -394,7 +394,8 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+border: 3px solid whitesmoke; }
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -5490,9 +5491,6 @@ button.bg-dark:focus {
 
 .rounded-sm {
   border-radius: 0.2rem !important; }
-
-.rounded {
-  border-radius: 0.25rem !important; }
 
 .rounded-top {
   border-top-left-radius: 0.25rem !important;
